@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/projects/KPI/programming-C++/lab3/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\lab3.dir\\main.cpp.obj -c C:\\projects\\KPI\\programming-C++\\lab3\\main.cpp",
+  "file": "C:\\projects\\KPI\\programming-C++\\lab3\\main.cpp",
+  "output": "CMakeFiles\\lab3.dir\\main.cpp.obj"
+}
+]
