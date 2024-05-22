@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.cpp": "cpp",
+        "*.pro": "cpp",
+        "vector": "cpp"
+    }
+}
