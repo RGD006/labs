@@ -1,3 +1,0 @@
-C:/projects/KPI/programming-C++/lab7/cmake-build-debug/CMakeFiles/lab_7.dir
-C:/projects/KPI/programming-C++/lab7/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/projects/KPI/programming-C++/lab7/cmake-build-debug/CMakeFiles/rebuild_cache.dir

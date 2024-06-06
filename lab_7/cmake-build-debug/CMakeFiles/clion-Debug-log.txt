@@ -1,1 +1,0 @@
-CMakeLists.txt not found in C:\projects\KPI\programming-C++\lab_7 Select CMakeLists.txt
